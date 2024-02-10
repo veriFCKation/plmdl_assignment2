@@ -2,4 +2,5 @@
 
 ### Assignment 2 - Movie Recommender System
 
-Recomengation system
+In this project was considered two approaches for recommendation system design: collaborative filterning and content-based approach.
+Information for all work in folder 'reports'
